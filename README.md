@@ -69,4 +69,9 @@ Power BI
 ## Presentation
 The `presentation/` folder contains the video recording of the project presentation, explaining each step in detail.
 
+## Screenshots
+
+![alt text](https://github.com/kt6224/Raksha_pipes_analysis/blob/main/images/data_generation.png?raw=true)
+
+
 
