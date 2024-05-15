@@ -62,10 +62,9 @@ Power BI
 ## Setup Instructions
 
 1. **Clone the Repository:** `git clone https://github.com/kt6224/Raksha_pipes_analysis/tree/main`
-2. **Install Dependencies:** `pip install -r requirements.txt`
-3. **Run Data Generation Script:** `python data_generation/Raksha_pipe_KK.py`
-4. **Setup MySQL Database:** Run the SQL scripts to create and populate the database.
-5. **Open Power BI Dashboard:** Follow instructions to link the MySQL database and open the dashboard file.
+2. **Run Data Generation Script:** `python data_generation/Raksha_pipe_KK.py`
+3. **Setup MySQL Database:** Run the SQL scripts to create and populate the database.
+4. **Open Power BI Dashboard:** Follow instructions to link the MySQL database and open the dashboard file.
 
 ## Presentation
 The `presentation/` folder contains the video recording of the project presentation, explaining each step in detail.
