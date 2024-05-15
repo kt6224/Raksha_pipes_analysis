@@ -77,7 +77,7 @@ The `presentation/` folder contains the video recording of the project presentat
 ![alt text](https://github.com/kt6224/Raksha_pipes_analysis/blob/main/images/database_schema.png?raw=true)
 
 ## (3) dashboard image
-![alt text](https://github.com/kt6224/Raksha_pipes_analysis/blob/main/images/power_bi_dashboard.png]?raw=true)
+![alt text](https://github.com/kt6224/Raksha_pipes_analysis/blob/main/images/power_bi_dashboard.png?raw=true)
 
 
 
